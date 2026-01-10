@@ -19,3 +19,4 @@ We're a group of MIT, Georgia Tech, and BU students. We are currently to buildin
 | Ilya Gulko            | Backend        | gulkily         | MIT         |
 | Jack Luo              | Backend        | thejackluo      | GT          |
 | Bryce Roberts         | Backend        | BryceRoberts13  | MIT         | 
+| Kshitij Duraphe       | DevOps         | ksd3            | BU          |
