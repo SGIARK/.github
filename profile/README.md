@@ -7,8 +7,7 @@ We're a group of MIT, Georgia Tech, and BU students. We are currently to buildin
 ## Repos
 
 - [arkos](https://github.com/SGIARK/arkos): Python-based AI agent framework.
-- [arkos-webui](https://github.com/SGIARK/arkos-webui): Svelte productivity web app which we intend to build on top of the backend
-- [arkos-mcp-calendar](https://github.com/SGIARK/arkos-mcp-calendar) for Model Context Protocol calendar integration
+
 
 ## Contact 
 
