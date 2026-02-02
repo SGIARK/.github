@@ -2,7 +2,7 @@
 
 We're a group of MIT, Georgia Tech, and BU students. We are currently to building a modular framework for personal AI agents which we intend to open source for custom workflows. We integrate MCP, Agents, Long Term Memory, State Graphs, and more. 
 
-"ARK" is an acronym for "Automated Knowledge Resourcebase".
+"ARK" is an acronym for "Automated Resource Knowledgebase".
 
 ## Repos
 
